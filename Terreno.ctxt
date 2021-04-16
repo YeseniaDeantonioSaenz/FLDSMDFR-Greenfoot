@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Terreno
+comment0.text=\r\n\ Terreno\ son\ todos\ los\ segmentos\ de\ terreno\ que\ tendra\ el\ actor\ Flint\ para\ poder\ desplazarse\ y\ salar\ sobre\ ellos\r\n\ \r\n\ @author\ (Yesenia\ Saenz,\ Evelin\ Miranda,\ Laura\ Hernandez)\ \r\n\ //\ *\ @version\ (1.15042021)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Terreno\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

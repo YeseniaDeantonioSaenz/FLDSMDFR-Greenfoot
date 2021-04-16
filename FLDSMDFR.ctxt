@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FLDSMDFR
+comment0.text=\r\n\ El\ mundo\ FLDSMDFR\ es\ el\ mundo\ inicial\ \ o\ el\ primer\ nivel\ donde\ se\ encuentran\ todos\ los\ actores.\r\n\ \r\n\ @author\ (Yesenia\ Saenz,\ Evelin\ Miranda,\ Laura\ Hernandez)\ \r\n\ //\ *\ @version\ (1.15042021)\r\n
+comment1.params=
+comment1.target=FLDSMDFR()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
